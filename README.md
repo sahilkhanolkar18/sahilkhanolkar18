@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahil Khanolkar</h1>
 <h3 align="center">A passionate MERN Full-Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilkhanolkar18&label=Profile%20views&color=0e75b6&style=flat" alt="sahilkhanolkar18" /> </p>
-
 - 👨‍💻 All of my projects are available at [Portfolio Website](https://sahilkhanolkar.netlify.app/)
 
 - 📫 How to reach me **sahilkhanolkar18@gmail.com**
